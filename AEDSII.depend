@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1655395180 source:c:\users\lfco\downloads\aeds ii - braza\arvore_binaria.c
+	"arvore_binaria.h"
+	<locale.h>
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\funcionarios.h
+	<stdio.h>
+
+1655395193 source:c:\users\lfco\downloads\aeds ii - braza\funcionario.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcionarios.h"
+
+1655395204 source:c:\users\lfco\downloads\aeds ii - braza\intercalacao.c
+	"intercalacao.h"
+	"funcionarios.h"
+	"arvore_binaria.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\intercalacao.h
+	"lista.h"
+	"pilha.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\lista.h
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\pilha.h
+	"funcionarios.h"
+
+1655395210 source:c:\users\lfco\downloads\aeds ii - braza\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+
+1655395215 source:c:\users\lfco\downloads\aeds ii - braza\manipulacao_arquivos.c
+	<stdlib.h>
+	<locale.h>
+	"manipulacao_arquivos.h"
+	"funcionarios.h"
+	"math.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\manipulacao_arquivos.h
+	<stdio.h>
+
+1655395220 source:c:\users\lfco\downloads\aeds ii - braza\ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	"funcionarios.h"
+
+1655398274 source:c:\users\lfco\downloads\aeds ii - braza\particoes.c
+	"funcionarios.h"
+	"particoes.h"
+	<stdlib.h>
+	<limits.h>
+	<locale.h>
+	"particoes.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\particoes.h
+	<stdio.h>
+	"lista.h"
+
+1655395237 source:c:\users\lfco\downloads\aeds ii - braza\pilha.c
+	"pilha.h"
+	<locale.h>
+
+1655398776 source:c:\users\lfco\downloads\aeds ii - braza\main.c
+	<stdlib.h>
+	<locale.h>
+	"ordenacao_busca.h"
+	"lista.h"
+	"particoes.h"
+	"intercalacao.h"
+	"arvore_binaria.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza\ordenacao_busca.h
+	<stdio.h>
+	"funcionarios.h"
+
+1655395180 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\arvore_binaria.c
+	"arvore_binaria.h"
+	<locale.h>
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\funcionarios.h
+	<stdio.h>
+
+1655395210 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\lista.h
+
+1655395215 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\manipulacao_arquivos.c
+	<stdlib.h>
+	<locale.h>
+	"manipulacao_arquivos.h"
+	"funcionarios.h"
+	"math.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\manipulacao_arquivos.h
+	<stdio.h>
+
+1655395220 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	"funcionarios.h"
+
+1655395237 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\pilha.c
+	"pilha.h"
+	<locale.h>
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\pilha.h
+	"funcionarios.h"
+
+1655400752 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\funcionario.c
+	<stdlib.h>
+	<string.h>
+	"funcionarios.h"
+
+1655400752 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\intercalacao.c
+	"intercalacao.h"
+	"funcionarios.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1655400752 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\intercalacao.h
+	"lista.h"
+	"pilha.h"
+
+1655400752 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\main.c
+	<stdlib.h>
+	"ordenacao_busca.h"
+	"lista.h"
+	"particoes.h"
+	"intercalacao.h"
+	"arvore_binaria.h"
+
+1655390410 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\ordenacao_busca.h
+	<stdio.h>
+	"funcionarios.h"
+
+1655400752 c:\users\lfco\downloads\aeds ii - braza - ultima esperança\particoes.h
+	<stdio.h>
+	"lista.h"
+
+1655403135 source:c:\users\lfco\downloads\aeds ii - braza - ultima esperança\particoes.c
+	"funcionarios.h"
+	<stdlib.h>
+	<limits.h>
+	"particoes.h"
+
+1655395182 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\arvore_binaria.c
+	"arvore_binaria.h"
+	<locale.h>
+
+1655390412 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.h"
+
+1655390412 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\funcionarios.h
+	<stdio.h>
+
+1655400754 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\funcionario.c
+	<stdlib.h>
+	<string.h>
+	"funcionarios.h"
+
+1655404867 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\intercalacao.c
+	"intercalacao.h"
+	"funcionarios.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1655400754 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\intercalacao.h
+	"lista.h"
+	"pilha.h"
+
+1655390412 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\lista.h
+
+1655390412 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\pilha.h
+	"funcionarios.h"
+
+1655395212 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+
+1655404000 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\main.c
+	<stdlib.h>
+	<locale.h>
+	"ordenacao_busca.h"
+	"lista.h"
+	"particoes.h"
+	"intercalacao.h"
+	"arvore_binaria.h"
+
+1655390412 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\ordenacao_busca.h
+	<stdio.h>
+	"funcionarios.h"
+
+1655400754 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\particoes.h
+	<stdio.h>
+	"lista.h"
+
+1655395216 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\manipulacao_arquivos.c
+	<stdlib.h>
+	<locale.h>
+	"manipulacao_arquivos.h"
+	"funcionarios.h"
+	"math.h"
+
+1655390412 c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\manipulacao_arquivos.h
+	<stdio.h>
+
+1655395222 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	"funcionarios.h"
+
+1655407298 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\particoes.c
+	"funcionarios.h"
+	<stdlib.h>
+	<limits.h>
+	"particoes.h"
+
+1655395238 source:c:\users\uelfo\onedrive\Área de trabalho\certo\aeds ii - ultima esperança rev01\pilha.c
+	"pilha.h"
+	<locale.h>
+
