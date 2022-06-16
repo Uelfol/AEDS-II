@@ -5,7 +5,7 @@
 */
 
 #include <stdlib.h>
-#include <locale.h>
+//#include <locale.h>
 #include "ordenacao_busca.h"
 #include "lista.h"
 #include "particoes.h"
@@ -13,7 +13,7 @@
 #include "arvore_binaria.h"
 
 int menu(){
-    setlocale (LC_ALL , "");
+    //setlocale (LC_ALL , "");
     int op;
 
     printf("\n\n**************MENU************** \n\nBASE DE DADOS\n");
@@ -44,7 +44,7 @@ int menu(){
 
 int main(){
 
-    setlocale (LC_ALL , "");
+    //setlocale (LC_ALL , "");
 
     /*criando um arquivo lógico para abir para leitura e escrita o arquivo binário*/
     FILE* arq = fopen("base_funcionarios.dat", "wb+");
